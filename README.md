@@ -1,3 +1,10 @@
+Please run this program in vscode. 
+Use CMD to run the program. 
+
+dotnet build         // This compiles your code
+dotnet run           // This runs your compiled code
+
+
 Simple Adventure - Our Game
 
 "Simple Adventure" is a scaled-down version of the original with several simplifying characteristics. For example:
